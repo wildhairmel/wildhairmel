@@ -4,12 +4,22 @@
 
 - <b>Scanning & Reconnaissance </b>
   - [Port Scanning in NMAP](https://github.com/)
-<!--
-**wildhairmel/wildhairmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<h2>👨‍💻 Certifications:</h2>
+
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/dc3feb28-904d-4aab-8002-c10b05d7a694/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/melisimmons_
+[linkedin]: https://linkedin.com/in/melissa-simmons-ab428a111/
+
+<!--
+**wildhairmel/wildhairmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
