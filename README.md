@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Melissa! <br/><a href="https://github.com/wildhairmel"> <a href="https://www.linkedin.com/in/melissa-simmons-ab428a111/"> Aspiring Cybersecurity Professional</a>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Scanning & Reconnaissance </b>
+  - [Port Scanning in NMAP](https://github.com/)
 <!--
 **wildhairmel/wildhairmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<h2> 🤳 Connect with me:</h2>
 
 Here are some ideas to get you started:
 
